@@ -19,7 +19,7 @@ const Sidebar = () => {
 
             <InformationContainer></InformationContainer>
 
-            <a href={Curriculum} download="CV-FERNANDA-KELLY" className='btn'>Download Currículo</a>
+            <a href={Curriculum} download="CV_-_Fernanda_Kelly_Souza_de_Lima_-_Engenheira_de_Software" className='btn'>Download Currículo</a>
         </aside>
     );
 };
