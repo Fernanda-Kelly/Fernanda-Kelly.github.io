@@ -1,5 +1,5 @@
 import React from 'react';
-import Avatar from "../img/medio.jpg"
+import Avatar from "../img/perfil.jpg"
 
 import "../styles/components/sidebar.sass"
 import Curriculum from "../document/CV_-_Fernanda_Kelly_Souza_de_Lima_-_Engenheira_de_Software.pdf"
